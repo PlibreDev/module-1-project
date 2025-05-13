@@ -1,5 +1,5 @@
 def display_menu():
-    print("\nTodo List:")
+    print("\nTo-do List:")
     print("1. Add a task")
     print("2. View task list")
     print("3. Delete a task")
@@ -21,7 +21,7 @@ def add_task():
     tasks.append(new_task)
     print(f"Task '{new_task}' has been added successfully.\n")
     view_tasks()
-    print()
+    print() #used just to create a new line after the task list is printed
 
 def delete_tasks():
     view_tasks()
