@@ -5,8 +5,10 @@
 ### Coding Temple, January 2025 Cohort
 ### paul@innvisa.com
 
-This is the first project completed in the Coding Temple Boot-camp Modules.  
-The project, although fairly simple in concept, is being completed within the first two weeks of the program. I'm sure there are better ways of achieving the goals of this program. If you have any feedback, I welcome you to email me or submit changes directly through [GitHub](https://github.com/Vogon-P0et/module-1-project). If you have any questions, please contact me at the email above. Thank you for taking the time to visit.
+## List Project 1
+================
+
+The project, although fairly simple in concept, was completed within the first two weeks of the program. It's a simple program that challenged me quite a bit at the onset of the course. Even part I of the readme shows how inexperienced I was at the start, but list project 2 is a little more advanced, has more modularity and shows a better understanding of the foundations of Python.
 
 ### To Run The Program
 Download the .py file from this GitHub repository to your local machine, and run in your existing Python terminal using VScode or a similar IDE. Once the program runs, it's pretty simple and intuitive. Just follow the prompts to build your list. You'll find more details below:
@@ -22,10 +24,19 @@ The functionality to delete tasks was the most challenging part of the assignmen
 ### Error Handling
 The only error handling in the assignment that used try, except, else, and finally was in the delete selection in the program. The remaining attempts at error handling were through conditional statements that caught the possible exceptions under the else statement and print error statements. The while loop ensures the program keeps running until the user desires to quit. 
 
-### What I Would Change
-I'd like to have the names of the task print through the for loop with title case. I was also unable to adapt any functions into the program. I tried to make sure each requirement was satisfied and this was the only one I couldn't add in with my current understanding. Not that I don't understand functions, but I was unsure how the use of functions would improve the code. 
-
-
 ### Why My Project Stands Out
 This project is extremely simple and intuitive. The menu is kept short, the user can exit at any time, and functionality is smooth, offering a clean terminal output. 
+
+
+
+## List Project 2
+================
+
+A simple program for managing lists that has the added function of file handling, allowing for tasks to stay in memory between executions of the program
+
+### Description
+This program provides a basic framework for creating, editing, and deleting lists. Error handling has been improved and the file handling makes the program much more robust, functioning as a to-do list should. 
+
+### Usage
+To use the program, simply run the listproject2.py script and follow the prompts. In the program I've imported the time module to place some delays after the actions to provide for a better user experience. I think the times could be cut in half but you can change it to your liking. 
 
