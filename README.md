@@ -1,11 +1,10 @@
-# Module 1 Lesson
-## To-Do list Application
+# Simple Python To-Do list Application
 
 ### Paul Jaghab
 ### Coding Temple, January 2025 Cohort
 ### paul@innvisa.com
 
-## List Project 1
+## List Project 1 
 ================
 
 The project, although fairly simple in concept, was completed within the first two weeks of the program. It's a simple program that challenged me quite a bit at the onset of the course. Even part I of the readme shows how inexperienced I was at the start, but list project 2 is a little more advanced, has more modularity and shows a better understanding of the foundations of Python.
