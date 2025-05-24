@@ -2,7 +2,7 @@
 
 ### Paul Jaghab
 ### Coding Temple, January 2025 Cohort
-### paul@innvisa.com
+
 
 ## List Project 1 
 ================
